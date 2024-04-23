@@ -19,10 +19,8 @@ Before running AutoCtrl+V, you need to install the required Python libraries. Th
 
 ```bash
 pip install -r requirements.txt
-
-This command will download and install the required libraries. Once the installation is complete, you can run the AutoCtrl+V script.
-
 ```
+This command will download and install the required libraries. Once the installation is complete, you can run the AutoCtrl+V script.
 
 ## Usage
 
